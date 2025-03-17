@@ -70,5 +70,5 @@ This project is licensed under the MIT License.
 Feel free to submit issues and pull requests to enhance the application!
 
 ## Contact
-For questions or suggestions, please contact `your-email@example.com`.
+For questions or suggestions, please contact `yuvankumar.8@gmail.com`.
 
